@@ -1,4 +1,4 @@
-## Question: Explain and implement a debounce and throttle functions that accepts a callback function as a parameter.
+## Question: Explain and implement a debounce and throttle functions.
 
 ### What is debounce? 🍰
 
